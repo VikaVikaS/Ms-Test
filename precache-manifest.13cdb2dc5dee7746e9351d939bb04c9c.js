@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/Ms-Test/static/media/Avenir-Light.94176ea2.woff2"
   },
   {
-    "revision": "f4aa35b27e6731c9406f14b8d8498013",
-    "url": "/Ms-Test/static/media/Avenir-Roman.f4aa35b2.woff"
-  },
-  {
     "revision": "c71bc76fc334a751dcadb144f43a41f2",
     "url": "/Ms-Test/static/media/Avenir-Roman.c71bc76f.woff2"
   },
   {
     "revision": "443c6f6f73180345528ba42e59ed513d",
     "url": "/Ms-Test/static/media/Avenir-Light.443c6f6f.woff"
+  },
+  {
+    "revision": "f4aa35b27e6731c9406f14b8d8498013",
+    "url": "/Ms-Test/static/media/Avenir-Roman.f4aa35b2.woff"
   },
   {
     "revision": "9a5595cbe7f0103590068680f9cb7fe5",
