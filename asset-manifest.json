@@ -7,10 +7,10 @@
   "runtime~main.js": "/Ms-Test/static/js/runtime~main.72993f86.js",
   "runtime~main.js.map": "/Ms-Test/static/js/runtime~main.72993f86.js.map",
   "static/media/photo.jpg": "/Ms-Test/static/media/photo.0cfbbb07.jpg",
-  "static/media/App.scss": "/Ms-Test/static/media/Avenir-Roman.f4aa35b2.woff",
+  "static/media/App.scss": "/Ms-Test/static/media/Avenir-Light.443c6f6f.woff",
   "static/media/footer-logo.svg": "/Ms-Test/static/media/footer-logo.ee75b0ac.svg",
   "static/css/main.cde373cc.chunk.css.map": "/Ms-Test/static/css/main.cde373cc.chunk.css.map",
   "index.html": "/Ms-Test/index.html",
-  "precache-manifest.936f533cd07a647ce9c6a1eb77750151.js": "/Ms-Test/precache-manifest.936f533cd07a647ce9c6a1eb77750151.js",
+  "precache-manifest.b036de4e265b23c51bedadba695fbef6.js": "/Ms-Test/precache-manifest.b036de4e265b23c51bedadba695fbef6.js",
   "service-worker.js": "/Ms-Test/service-worker.js"
 }
