@@ -1,16 +1,16 @@
 {
-  "main.css": "/Ms-Test/static/css/main.cde373cc.chunk.css",
-  "main.js": "/Ms-Test/static/js/main.34ae6733.chunk.js",
-  "main.js.map": "/Ms-Test/static/js/main.34ae6733.chunk.js.map",
+  "main.css": "/Ms-Test/static/css/main.28ee4445.chunk.css",
+  "main.js": "/Ms-Test/static/js/main.76ec192a.chunk.js",
+  "main.js.map": "/Ms-Test/static/js/main.76ec192a.chunk.js.map",
   "static/js/1.261d8d98.chunk.js": "/Ms-Test/static/js/1.261d8d98.chunk.js",
   "static/js/1.261d8d98.chunk.js.map": "/Ms-Test/static/js/1.261d8d98.chunk.js.map",
   "runtime~main.js": "/Ms-Test/static/js/runtime~main.72993f86.js",
   "runtime~main.js.map": "/Ms-Test/static/js/runtime~main.72993f86.js.map",
-  "static/media/photo.jpg": "/Ms-Test/static/media/photo.0cfbbb07.jpg",
+  "static/media/photo.jpg": "/Ms-Test/static/media/photo.b7600c3a.jpg",
   "static/media/App.scss": "/Ms-Test/static/media/Avenir-Roman.c71bc76f.woff2",
   "static/media/footer-logo.svg": "/Ms-Test/static/media/footer-logo.ee75b0ac.svg",
-  "static/css/main.cde373cc.chunk.css.map": "/Ms-Test/static/css/main.cde373cc.chunk.css.map",
+  "static/css/main.28ee4445.chunk.css.map": "/Ms-Test/static/css/main.28ee4445.chunk.css.map",
   "index.html": "/Ms-Test/index.html",
-  "precache-manifest.6989d90c0ed98c3caae73230f68853d9.js": "/Ms-Test/precache-manifest.6989d90c0ed98c3caae73230f68853d9.js",
+  "precache-manifest.9a94857e5971bed5833dfdf3995e8c5a.js": "/Ms-Test/precache-manifest.9a94857e5971bed5833dfdf3995e8c5a.js",
   "service-worker.js": "/Ms-Test/service-worker.js"
 }
