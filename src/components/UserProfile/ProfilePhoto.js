@@ -5,7 +5,7 @@ class ProfilePhoto extends Component {
   render() {
     return (
         <div className="profile-photo">
-            <img src={this.props.photo} alt="user-pic" />
+            <div className="photo-wrap"><img src={this.props.photo} alt="user-pic" /> </div>
         </div>
     );
   }

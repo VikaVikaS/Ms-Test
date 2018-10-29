@@ -12,6 +12,12 @@
   src: url(./fonts/avenir/roman/Avenir-Roman.woff2);
 }
 
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
 .page-wrapper {
   width: 800px;
   margin: 0 auto;
