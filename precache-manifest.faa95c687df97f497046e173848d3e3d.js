@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Ms-Test/static/media/footer-logo.ee75b0ac.svg"
   },
   {
-    "revision": "9519b596adfabd8e9fb2",
-    "url": "/Ms-Test/static/css/main.026a6427.chunk.css"
+    "revision": "ce1081f1f18c8a06876a",
+    "url": "/Ms-Test/static/css/main.b172ab8e.chunk.css"
   },
   {
     "revision": "261d8d98f040a5028c99",
@@ -20,12 +20,8 @@ self.__precacheManifest = [
     "url": "/Ms-Test/static/media/photo.b7600c3a.jpg"
   },
   {
-    "revision": "9519b596adfabd8e9fb2",
-    "url": "/Ms-Test/static/js/main.9519b596.chunk.js"
-  },
-  {
-    "revision": "94176ea273c95d59a0bd29010180f452",
-    "url": "/Ms-Test/static/media/Avenir-Light.94176ea2.woff2"
+    "revision": "ce1081f1f18c8a06876a",
+    "url": "/Ms-Test/static/js/main.ce1081f1.chunk.js"
   },
   {
     "revision": "443c6f6f73180345528ba42e59ed513d",
@@ -36,11 +32,15 @@ self.__precacheManifest = [
     "url": "/Ms-Test/static/media/Avenir-Roman.f4aa35b2.woff"
   },
   {
+    "revision": "94176ea273c95d59a0bd29010180f452",
+    "url": "/Ms-Test/static/media/Avenir-Light.94176ea2.woff2"
+  },
+  {
     "revision": "c71bc76fc334a751dcadb144f43a41f2",
     "url": "/Ms-Test/static/media/Avenir-Roman.c71bc76f.woff2"
   },
   {
-    "revision": "2f5c11d1bc6619885631c87c90b5575e",
+    "revision": "0de454d1de2bcba6edcdb736f7eb3742",
     "url": "/Ms-Test/index.html"
   }
 ];
