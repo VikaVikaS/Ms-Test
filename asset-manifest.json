@@ -1,7 +1,7 @@
 {
   "main.css": "/Ms-Test/static/css/main.7abe39c6.chunk.css",
-  "main.js": "/Ms-Test/static/js/main.b6e40484.chunk.js",
-  "main.js.map": "/Ms-Test/static/js/main.b6e40484.chunk.js.map",
+  "main.js": "/Ms-Test/static/js/main.039ccc8c.chunk.js",
+  "main.js.map": "/Ms-Test/static/js/main.039ccc8c.chunk.js.map",
   "static/js/1.261d8d98.chunk.js": "/Ms-Test/static/js/1.261d8d98.chunk.js",
   "static/js/1.261d8d98.chunk.js.map": "/Ms-Test/static/js/1.261d8d98.chunk.js.map",
   "runtime~main.js": "/Ms-Test/static/js/runtime~main.72993f86.js",
@@ -11,6 +11,6 @@
   "static/media/footer-logo.svg": "/Ms-Test/static/media/footer-logo.5ba4212e.svg",
   "static/css/main.7abe39c6.chunk.css.map": "/Ms-Test/static/css/main.7abe39c6.chunk.css.map",
   "index.html": "/Ms-Test/index.html",
-  "precache-manifest.aa99672d216624fba9051ee7066bb5b6.js": "/Ms-Test/precache-manifest.aa99672d216624fba9051ee7066bb5b6.js",
+  "precache-manifest.8d1ca66425619377de60fd615b3729d5.js": "/Ms-Test/precache-manifest.8d1ca66425619377de60fd615b3729d5.js",
   "service-worker.js": "/Ms-Test/service-worker.js"
 }
